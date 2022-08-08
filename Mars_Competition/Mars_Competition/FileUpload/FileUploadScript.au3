@@ -1,0 +1,6 @@
+ControlFocus("Open","","Edit1")
+Sleep(2000)
+ ControlSetText("Open","","Edit","E:\Testing\CompetitionTask\Mars_Competition\Mars_Competition\image\girl.jfif")
+Sleep(2000)
+ ControlClick("Open","","Button1")
+;~  ControlClick(“Open”,””,”Button1”)
