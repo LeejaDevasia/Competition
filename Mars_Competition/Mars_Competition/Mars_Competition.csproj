@@ -42,4 +42,9 @@
     <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Reports\" />
+    <Folder Include="Screenshot\" />
+  </ItemGroup>
+
 </Project>

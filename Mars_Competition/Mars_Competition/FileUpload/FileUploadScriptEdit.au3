@@ -1,0 +1,5 @@
+ControlFocus("Open","","Edit1")
+Sleep(2000)
+ ControlSetText("Open","","Edit1","E:\Testing\CompetitionTask\Competition\Mars_Competition\Mars_Competition\image\mountain.jpg")
+Sleep(2000)
+ ControlClick("Open","","Button1")
